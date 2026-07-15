@@ -30,7 +30,7 @@ const FAQ = () => {
   }
 
   return (
-    <section className="w-full px-6 py-24 bg-white border-t border-linea-grid">
+    <section id="FAQ" className="w-full px-6 py-24 bg-white border-t border-linea-grid">
       <div className="max-w-4xl mx-auto">
         
         {/* Encabezado */}

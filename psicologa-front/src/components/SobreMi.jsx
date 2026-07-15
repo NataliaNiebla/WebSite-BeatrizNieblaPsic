@@ -24,7 +24,7 @@ const SobreMi = () => {
           </h2>
           <div className="font-sans text-gray-700 space-y-5 text-lg leading-relaxed">
             <p>
-              Soy la Psic. Beatriz Adriana Niebla Rodríguez. Soy Licenciada en Psicología y actualmente curso la Maestría en Psicoterapia en la Universidad Juárez del Estado de Durango. Durante mi trayectoria, me he especializado en la psicoterapia infantil-juvenil, la prevención de comportamientos adictivos y el abordaje de trastornos de la conducta alimentaria.
+              Soy la Psicóloga Beatriz Adriana Niebla Rodríguez. Soy Licenciada en Psicología y actualmente curso la Maestría en Psicoterapia en la Universidad Juárez del Estado de Durango. Durante mi trayectoria, me he especializado en la psicoterapia infantil-juvenil, la prevención de comportamientos adictivos y el abordaje de trastornos de la conducta alimentaria.
             </p>
             <p>
               Creo firmemente en el activismo corporal y el bienestar emocional. En mi consulta y en talleres como MIND&BODY, busco que mis pacientes construyan una relación saludable consigo mismos, basada en el respeto y la compasión, reconociendo que nuestro valor personal va mucho más allá de la imagen física.
